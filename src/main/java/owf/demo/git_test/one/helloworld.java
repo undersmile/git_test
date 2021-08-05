@@ -11,5 +11,6 @@ public class helloworld {
         System.out.println("Hello ,master");
         System.out.println("Hello ,hot-fix");
         System.out.println("Test ,Push");
+        System.out.println("Test ,Pull");
     }
 }
