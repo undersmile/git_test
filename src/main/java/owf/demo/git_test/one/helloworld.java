@@ -12,5 +12,6 @@ public class helloworld {
         System.out.println("Hello ,hot-fix");
         System.out.println("Test ,Push");
         System.out.println("Test ,Pull");
+        System.out.println("Test ,Pull again");
     }
 }
