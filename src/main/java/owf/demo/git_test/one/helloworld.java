@@ -7,5 +7,6 @@ public class helloworld {
         System.out.println("Hello World!");
         System.out.println("Hello , my dear firend");
         System.out.println("Hello ,ice-cream");
+        System.out.println("Hello ,klock");
     }
 }
