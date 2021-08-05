@@ -9,5 +9,6 @@ public class helloworld {
         System.out.println("Hello ,ice-cream");
         System.out.println("Hello ,klock");
         System.out.println("Hello ,master");
+        System.out.println("Hello ,hot-fix");
     }
 }
