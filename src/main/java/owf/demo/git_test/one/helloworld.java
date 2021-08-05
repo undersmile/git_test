@@ -8,5 +8,6 @@ public class helloworld {
         System.out.println("Hello , my dear firend");
         System.out.println("Hello ,ice-cream");
         System.out.println("Hello ,klock");
+        System.out.println("Hello ,master");
     }
 }
